@@ -1,0 +1,40 @@
+/* globals.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Fondo general de la página */
+body {
+    background-color: rgb(240, 245, 255); /* Un tono de azul muy claro, casi blanco */
+}
+
+/* Fondo con un degradado de azul a blanco, más ligero */
+.bg-gradient-custom {
+    background: linear-gradient(to bottom right, rgb(30, 144, 255), rgb(255, 255, 255)); /* Azul deportivo a blanco */
+}
+
+/* Fondo suave blanco */
+.bg-soft-custom {
+    background-color: rgb(245, 250, 255); /* Un tono muy claro de azul casi blanco */
+}
+
+/* Fondo de tarjeta con un toque de azul claro */
+.bg-card-custom {
+    background-color: rgb(225, 240, 255); /* Azul claro suave, sin tonos grises */
+}
+
+/* Texto oscuro azul */
+.text-soft-dark {
+    color: rgb(20, 20, 70); /* Azul muy oscuro para darle un toque deportivo y elegante */
+}
+
+/* Texto claro */
+.text-soft-light {
+    color: rgb(255, 255, 255); /* Blanco puro */
+}
+
+/* Bordes de entrada personalizados */
+.input-border-custom {
+    border: 2px solid rgb(30, 144, 255); /* Azul deportivo */
+    background-color: rgb(240, 248, 255); /* Azul claro casi blanco */
+}
