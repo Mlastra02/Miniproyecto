@@ -1,6 +1,5 @@
 import Seccion1 from '../components/Seccion1';
 import Galeria from '../components/Galeria';
-import Contacto from '../components/Contacto';
 import SeccionInscripcion from '../components/SeccionInscripcion';
 
 
