@@ -1,5 +1,6 @@
 # Página web de eventos deportivos
 
+**Integrantes: Max Lastra, Joaquín Wolde, Agustín de la Vega**<br>
 Es una página web donde puedes subir los eventos deportivos que estás organizando. Cuando inscribes tu evento, el formulario te deja elegir opciones preestablecidas. Luego, el formulario registra el evento en un Excel, y esta interacción se realiza a través de una API.
 
 ## Componentes
